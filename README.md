@@ -1,8 +1,8 @@
 # Roulette-jqueryRotate.js
 jQueryRotate.js 를 사용한 크로스 브라우징 대응 
 룰렛 이벤트
-<br>
-- ![desktop](./img_roulette.png)  
+<br><br>
+![desktop](./img_roulette.png)  
 <br>
 
 ```html
